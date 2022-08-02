@@ -1,1 +1,1261 @@
-{"name":"Best Mindfucks","description":"What’s a mindfuck? A movie that plays with your mind, confuses you, and leads you on. It’s not just a movie with a twist ending. Mindfucks are borderline-incoherent, dreamlike, and surreal.","privacy":"public","type":"personal","display_numbers":false,"allow_comments":true,"sort_by":"rank","sort_how":"asc","created_at":"2012-06-30T23:29:30.000Z","updated_at":"2022-08-02T09:34:45.000Z","item_count":116,"comment_count":68,"likes":2345,"ids":{"trakt":800238,"slug":"best-mindfucks"},"user":{"username":"BenFranklin","private":false,"name":"Ben","vip":true,"vip_ep":false,"ids":{"slug":"benfranklin"}}}
+[
+    {
+        "title": "Marsjanin",
+        "originalTitle": "The Martian",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Marsovac: Spasilačka misija",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "The Martian 3D",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "A marsi",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 22,
+                    "name": "Hungarian"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "火星人",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Misión Rescate",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 31,
+                    "name": "Arabic"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Misión rescate",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Seul sur Mars",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 2,
+                    "name": "French"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "마션",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Perdido em Marte",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Ο Αρειανός",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Marsjanin",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 12,
+                    "name": "Polish"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "火星任務",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "絕地救援",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marsjanin",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Potężna burza piaskowa sprawia, że sześcioosobowa marsjańska ekspedycja, w której skład wchodzi Mark Watney (Matt Damon), musi ratować się ucieczką z Czerwonej Planety. Kiedy ciężko ranny Mark odzyskuje przytomność, stwierdza, że został na Marsie sam w zdewastowanym przez wichurę obozie, z minimalnymi zapasami powietrza i żywności, a na dodatek bez łączności z Ziemią. Co gorsza, zarówno pozostali członkowie ekspedycji, jak i sztab w Houston uważają go za martwego, nikt więc nie zorganizuje wyprawy ratunkowej; zresztą, nawet gdyby wyruszyli po niego niemal natychmiast, dotarliby na Marsa długo po tym, jak zabraknie mu powietrza, wody i żywności. Czyżby to był koniec? Nic z tego. Mark rozpoczyna heroiczną walkę o przetrwanie, w której równie ważną rolę co naukowa wiedza, zdolności techniczne i pomysłowość odgrywają niezłomna determinacja i umiejętność zachowania dystansu wobec siebie i świata, który nie zawsze gra fair…  [opis dystrybutora dvd]",
+        "inCinemas": "2015-09-30T00:00:00Z",
+        "physicalRelease": "2016-01-12T00:00:00Z",
+        "digitalRelease": "2015-12-22T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/39f0c176df850f6bfb2656050ae5d3ebee549d823ee40433ead6ba8ac949da78/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/3453fd99b296ba3f4ddf9f46e200587355d154a45afe241e17c78a57e0d88d71/3dPhs7hUnQLphDFzdkD407VZDYo.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/3dPhs7hUnQLphDFzdkD407VZDYo.jpg"
+            }
+        ],
+        "website": "https://www.20thcenturystudios.com/movies/the-martian",
+        "remotePoster": "https://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+        "year": 2015,
+        "hasFile": false,
+        "youTubeTrailerId": "ej3ioOneTy8",
+        "studio": "Scott Free Productions",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 141,
+        "cleanTitle": "themartian",
+        "imdbId": "tt3659388",
+        "tmdbId": 286217,
+        "titleSlug": "286217",
+        "folder": "The Martian (2015)",
+        "certification": "PG-13",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 835811,
+                "value": 8,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 17203,
+                "value": 7.671,
+                "type": "user"
+            },
+            "metacritic": {
+                "votes": 0,
+                "value": 80,
+                "type": "user"
+            },
+            "rottenTomatoes": {
+                "votes": 0,
+                "value": 91,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "The Long Way Home: Making 'The Martian'",
+        "originalTitle": "The Long Way Home: Making 'The Martian'",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "long way home making martian",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "A long form documentary on the making of Ridley Scott's film, \"The Martian,\" featuring interviews with its cast and crew.",
+        "physicalRelease": "2016-06-07T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/4430b59d679ce3bf4b77fe27cb5f2384b14235270b32892280751501ca6f7ce3/jo4bpujR5acfcJrLkH0TZ3MumjG.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/jo4bpujR5acfcJrLkH0TZ3MumjG.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/jo4bpujR5acfcJrLkH0TZ3MumjG.jpg",
+        "year": 2016,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 80,
+        "cleanTitle": "thelongwayhomemakingmartian",
+        "imdbId": "tt5676698",
+        "tmdbId": 603459,
+        "titleSlug": "603459",
+        "folder": "The Long Way Home Making 'The Martian' (2016)",
+        "genres": [
+            "Documentary"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 24,
+                "value": 7.2,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 2,
+                "value": 6,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "The Great Martian War 1913–1917",
+        "originalTitle": "The Great Martian War 1913–1917",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "A Nagy Marsi Háború 1913–1917",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 22,
+                    "name": "Hungarian"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "The First Martian War",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "The Great Martian War",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 5,
+                    "name": "Italian"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "great martian war 19131917",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Documentary-drama recounting the Martian War of 1913–1917. Europe was on tenterhooks in the 2nd decade of the 20th century, everyone was expecting a Great War between the major European powers. But then, in 1913, something crashed into the forests of SW Germany. Troops were sent to investigate but were wiped out. Martian fighting machines began making their way across Western Europe and the countries of Europe combined forces to resist them. With aspects taken from ‘The War of the Worlds’ by H.G. Wells and from WWI itself, this dramatisation presents a documentary style look at events as they unfolded and the effect they had of our world today. Lots of references to real events including the mass attacks and defeats as men were thrown against machines on the Western front, the Christmas truce and the Angel of Mons, America's isolationism and late entry into the conflict, the worldwide Spanish flu epidemic that killed more people than the war, and many other things.",
+        "digitalRelease": "2013-12-08T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/28870b7954bd4fe47f4abdd316e3b5ffa5d832fb1ca88f07615bbd6d9c51edcb/4dGtDwLsT8Jq83PaNAurBC9sQCQ.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/4dGtDwLsT8Jq83PaNAurBC9sQCQ.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/20333cb70dcf732fc7d4ef6ac591fa86675ed2c9cc1ae0c7e56dcb2d46f0c16b/rqVETNBEimEv0PJTvMVmpHw88MJ.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/rqVETNBEimEv0PJTvMVmpHw88MJ.jpg"
+            }
+        ],
+        "website": "http://www.history.co.uk/shows/the-great-martian-war",
+        "remotePoster": "https://image.tmdb.org/t/p/original/4dGtDwLsT8Jq83PaNAurBC9sQCQ.jpg",
+        "year": 2013,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "Impossible Pictures",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 90,
+        "cleanTitle": "thegreatmartianwar19131917",
+        "imdbId": "tt3199240",
+        "tmdbId": 247845,
+        "titleSlug": "247845",
+        "folder": "The Great Martian War 1913–1917 (2013)",
+        "genres": [
+            "Drama",
+            "War",
+            "History"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 443,
+                "value": 6.8,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 10,
+                "value": 6.7,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Marvin The Martian: Space Tunes",
+        "originalTitle": "Marvin The Martian: Space Tunes",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marvin martian space tunes",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Collection of classic cartoons including \"Duck Dodgers in the 24 1/2 Century,\" \"Hareway to the Stars,\" \"The Hasty Hare,\" \"Duck Dodgers and the Return of the 24 1/2 Century,\" \"Mad as a Mars Hare,\" \"Spaced Out Bunny,\" and \"Haredevil Hare.\"",
+        "physicalRelease": "1998-01-01T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e0279fa5c1173891e4cb611a4c7a2697d54a4542765a0e7eb55e334d5151065a/rh9MJEi8nDighOCeALXaMUUb4Ih.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/rh9MJEi8nDighOCeALXaMUUb4Ih.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/a744dec45b2193a98683ca6080556e117103f4a6503f5785bc874f390cb0a4ee/w1iXHAvFFDjfjrxnyXWjK1cgCdp.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/w1iXHAvFFDjfjrxnyXWjK1cgCdp.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/rh9MJEi8nDighOCeALXaMUUb4Ih.jpg",
+        "year": 1998,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 50,
+        "cleanTitle": "marvinmartianspacetunes",
+        "imdbId": "tt0248984",
+        "tmdbId": 26470,
+        "titleSlug": "26470",
+        "folder": "Marvin The Martian Space Tunes (1998)",
+        "certification": "G",
+        "genres": [
+            "Animation"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 59,
+                "value": 8.1,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 6,
+                "value": 7,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Marvin the Martian in the Third Dimension",
+        "originalTitle": "Marvin the Martian in the Third Dimension",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Marvin the Martian in 3D",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Marvin the Martian in 4D",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marvin martian in third dimension",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "While scanning the universe for signs of hostility, Marvin hears something that sounds like a threat from Earth. Daffy's preparation for his movie role as a dreaded Martian fighter causes the confusion, which results in intergalactic mayhem of comic proportions.",
+        "inCinemas": "1996-06-29T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/6215cf3eb6d437a8cf9ea0443f7b349743347a5fb47cc3418729dc3e55f7de68/y1Sc2o6fqcZeH9DNIkmozJoREsC.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/y1Sc2o6fqcZeH9DNIkmozJoREsC.jpg"
+            }
+        ],
+        "website": "http://www.simex-iwerks.com/Default.asp?id=4&l=1&mcat_gid=4&mcat_pid=89&mcat_cid=0",
+        "remotePoster": "https://image.tmdb.org/t/p/original/y1Sc2o6fqcZeH9DNIkmozJoREsC.jpg",
+        "year": 1996,
+        "hasFile": false,
+        "youTubeTrailerId": "vuSya6eu0Fg",
+        "studio": "Warner Bros. Pictures",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 12,
+        "cleanTitle": "marvinmartianinthirddimension",
+        "imdbId": "tt0116998",
+        "tmdbId": 140690,
+        "titleSlug": "140690",
+        "folder": "Marvin the Martian in the Third Dimension (1996)",
+        "certification": "NR",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 153,
+                "value": 5.7,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 7,
+                "value": 5.9,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Harry Price & the Martian Lighthouse",
+        "originalTitle": "Harry Price & the Martian Lighthouse",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "harry price martian lighthouse",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "The story of how famed psychical researcher Harry Price became involved in a real-life plan to build a lighthouse that could be used to direct a beam at Mars, contacting the aliens who supposedly lived there.",
+        "digitalRelease": "2017-02-06T00:00:00Z",
+        "images": [],
+        "website": "https://www.youtube.com/watch?v=b1WsN1-3ZwM",
+        "year": 2017,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "Carrion Film",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 4,
+        "cleanTitle": "harrypricemartianlighthouse",
+        "tmdbId": 612819,
+        "titleSlug": "612819",
+        "folder": "Harry Price & the Martian Lighthouse (2017)",
+        "genres": [
+            "Documentary"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "tmdb": {
+                "votes": 0,
+                "value": 0,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Marvin the Martian & K9: 50 Years on Earth",
+        "originalTitle": "Marvin the Martian & K9: 50 Years on Earth",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marvin martian k9 50 years on earth",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Collection of classic cartoons including \"Haredevil Hare\", \"Mad as a Mars Hare\", \"Duck Dodgers and the Return of the 24 1/2th Century\", \"Spacedout Bunny\", \"Lumber Jack Rabbit\", and \"Hyde and Go Tweet\".",
+        "physicalRelease": "1998-07-21T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/7aba4325be658fcf45adfa87249973a390545af24aefaf31c28eb61eb9e49e56/g7FXPUZZ5MW4hTj4RQFbyFcI0RG.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/g7FXPUZZ5MW4hTj4RQFbyFcI0RG.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/g7FXPUZZ5MW4hTj4RQFbyFcI0RG.jpg",
+        "year": 1998,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "Warner Home Video",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 40,
+        "cleanTitle": "marvinmartiank950yearsonearth",
+        "imdbId": "tt0459462",
+        "tmdbId": 778017,
+        "titleSlug": "778017",
+        "folder": "Marvin the Martian & K9 50 Years on Earth (1998)",
+        "certification": "G",
+        "genres": [
+            "Animation"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 16,
+                "value": 7.7,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 0,
+                "value": 0,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Marsjanin Mercano",
+        "originalTitle": "Mercano, el Marciano",
+        "originalLanguage": {
+            "id": 3,
+            "name": "Spanish"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marsjanin mercano",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Argentyński pełnometrażowy film animowany. Antyglobalistyczna w wymowie opowieść o sympatycznym kosmicie, któremu spadająca sonda zabija jego Coś-na-kształt-psa. Żądny zemsty Mercano wyrusza na Ziemię, ląduje w Buenos Aires i na skutek awarii swojego statku kosmicznego zmuszony jest zostać w Argentynie. W niedługim czasie przyłącza się do młodych anarchistów w ich walce z ponadnarodowymi korporacjami. Animowany obraz otrzymał Nagrodę Publiczności na MFF w Sitges 2002, pokazywany był również na wielu innych festiwalach: MFF San Sebastan 2002, Festiwal Nowego Kina Latynoamerykańskiego - Hawana 2002, MFF Mar del Plata 2003, MFF Berlin 2003. W Polsce animację Juan Antin'a zobaczyć można będzie w ramach Festiwalu Filmów Latynoamerykańskich.",
+        "inCinemas": "2002-10-03T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/4955fd961f9998c5360c34811c0f7d61c6f2eef84581bdb2564b12d06df4edbd/gFthB72jUXkimX3DhNB4ef8Nmb2.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/gFthB72jUXkimX3DhNB4ef8Nmb2.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/0b7e825c4813a4f6c100ac376a3d517b793711657739185e0f0288b8a5d912aa/3nF5Agpp1xy5zKdxboD0fTXuenH.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/3nF5Agpp1xy5zKdxboD0fTXuenH.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/gFthB72jUXkimX3DhNB4ef8Nmb2.jpg",
+        "year": 2002,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "Malcriados",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 87,
+        "cleanTitle": "mercanomartian",
+        "imdbId": "tt0283476",
+        "tmdbId": 100512,
+        "titleSlug": "100512",
+        "folder": "Mercano the Martian (2002)",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 486,
+                "value": 6.6,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 6,
+                "value": 5.9,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Santo vs. the Martian Invasion",
+        "originalTitle": "Santo el enmascarado de plata vs. la invasión de los marcianos",
+        "originalLanguage": {
+            "id": 3,
+            "name": "Spanish"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Santo el Enmascarado de Plata vs. la invasión de los marcianos",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "santo vs martian invasion",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "In this Mexican sci-fi fantasy, big beefy Martians invade the earth. Ostensibly, they have come to warn people about the dangers of nuclear testing and exploring space, but their real mission becomes manifest when they begin using their special powers and gadgets to exploit weak earthlings.",
+        "inCinemas": "1967-07-27T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/ddfdfdaa2e2a6d91663e46600f1029342d9c0b630256d4839fe5bf2aa08f62e4/qUjR8YUmnuFozJG2uru3v3nq9Tw.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/qUjR8YUmnuFozJG2uru3v3nq9Tw.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/qUjR8YUmnuFozJG2uru3v3nq9Tw.jpg",
+        "year": 1967,
+        "hasFile": false,
+        "youTubeTrailerId": "CCCSubSC-H0",
+        "studio": "",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 85,
+        "cleanTitle": "santovsmartianinvasion",
+        "imdbId": "tt0060938",
+        "tmdbId": 80766,
+        "titleSlug": "80766",
+        "folder": "Santo vs. the Martian Invasion (1967)",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Fantasy"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 347,
+                "value": 5.2,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 10,
+                "value": 5.5,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "The Martian Chronicles of Us Us Us",
+        "originalTitle": "Марсианские хроники нас нас нас",
+        "originalLanguage": {
+            "id": 11,
+            "name": "Russian"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "martian chronicles us us us",
+        "sizeOnDisk": 0,
+        "status": "announced",
+        "overview": "She is 25 years old, lives with her father and does advertising for an online casino in her video blog. The father works as cashier in a grocery shop and irons the daughter’s socks. But half an hour ago he decided that it is time to stop that.",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/fb88afde13dfca836ca7851bbf63c102fed9df9e6acd1f948ecc204df9d2b574/5KsJfehGgya2WN9JY4yFRp3s7MX.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/5KsJfehGgya2WN9JY4yFRp3s7MX.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/c552fef4c1a9c26a5f701439d7b8572b39c5458507d00f0b7236b548fa4628f6/vJSnTtmGuQZHHfuuJcLlgyQF0LV.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/vJSnTtmGuQZHHfuuJcLlgyQF0LV.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/5KsJfehGgya2WN9JY4yFRp3s7MX.jpg",
+        "year": 2018,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 8,
+        "cleanTitle": "themartianchroniclesususus",
+        "imdbId": "tt13327052",
+        "tmdbId": 524715,
+        "titleSlug": "524715",
+        "folder": "The Martian Chronicles of Us Us Us (2018)",
+        "genres": [],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "tmdb": {
+                "votes": 1,
+                "value": 10,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "The Christmas Martian",
+        "originalTitle": "Le martien de Noël",
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "christmas martian",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "A martian comes to a small town in Quebec and becomes friends with the town children. He gives them candy to get the children into his spacecraft. This alarms the parents but he wins them over and they have a great big Christmas party.",
+        "inCinemas": "1971-01-01T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/38fd4f1d03ba58b9bd3ed83cf6c8ec81779ea7286d5c0814e608bbf80410b2d3/3hrXefUybywCUOJmdjpMvJjwTtJ.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/3hrXefUybywCUOJmdjpMvJjwTtJ.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/3hrXefUybywCUOJmdjpMvJjwTtJ.jpg",
+        "year": 1971,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "Faroun Films",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 65,
+        "cleanTitle": "thechristmasmartian",
+        "imdbId": "tt0067400",
+        "tmdbId": 85605,
+        "titleSlug": "85605",
+        "folder": "The Christmas Martian (1971)",
+        "genres": [
+            "Family",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 160,
+                "value": 4.7,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 4,
+                "value": 4.4,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "The Secret Aesthetics of the Martian Spies",
+        "originalTitle": "Тайная эстетика марсианских шпионов",
+        "originalLanguage": {
+            "id": 11,
+            "name": "Russian"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "secret aesthetics martian spies",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Martian Spies tells a love story between a boy who pretends to be a terrorist and a young girl, who is the wife of a KGB agent. The boy tells her that he has been hired to shoot the president – Yeltsin. The end is poetic yet addressing the politics of revenge and corruption in Russia. Miners stand in front of their mine, singing a song, which tells the story of contemporary Russian politics.",
+        "inCinemas": "1997-01-11T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/41484281080b7db44fd239286ecf91c708ca8b6f9fd79a6c3f358cf056705bd7/pmvdjK6Qcp61W3hOjJV7TgGuo7R.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/pmvdjK6Qcp61W3hOjJV7TgGuo7R.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/pmvdjK6Qcp61W3hOjJV7TgGuo7R.jpg",
+        "year": 1997,
+        "hasFile": false,
+        "youTubeTrailerId": "",
+        "studio": "",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 116,
+        "cleanTitle": "thesecretaestheticsmartianspies",
+        "tmdbId": 335547,
+        "titleSlug": "335547",
+        "folder": "The Secret Aesthetics of the Martian Spies (1997)",
+        "genres": [],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "tmdb": {
+                "votes": 0,
+                "value": 0,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Marsjańska ziemia",
+        "originalTitle": "Martian Land",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Mars apocalypse",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 2,
+                    "name": "French"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Marsland - Kein Ort zum Überleben",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 4,
+                    "name": "German"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "The Martian War",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "marsjańska ziemia",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Daleka przyszłość. By uniknąć zagłady na Ziemi, ludzkość przenosi się na Marsa, gdzie pod kopułami próbuje stworzyć namiastkę byłej planety. Po gwałtownej piaskowej burzy, która niszczy marsjański Nowy Jork, mieszkańcy marsjańskiego Los Angeles muszą zrobić wszystko, by się ocalić.",
+        "inCinemas": "2015-10-06T00:00:00Z",
+        "physicalRelease": "2016-03-18T00:00:00Z",
+        "digitalRelease": "2021-07-01T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/69a43f95f65c1ea9c7e30923a6856ea954232253849e5e4de751079136352e38/qUe6dZIFTdyIgoyRstxthFiSwJj.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/qUe6dZIFTdyIgoyRstxthFiSwJj.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/a4036eca4078c4fd24f05f67fd1e82cdfd6e36ad6738f57bc1e8ac6c57463678/tbOzTfGpYmkWOMb5XMfEmk7djIS.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/tbOzTfGpYmkWOMb5XMfEmk7djIS.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/qUe6dZIFTdyIgoyRstxthFiSwJj.jpg",
+        "year": 2015,
+        "hasFile": false,
+        "youTubeTrailerId": "IfpSo51jUUk",
+        "studio": "The Asylum",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 90,
+        "cleanTitle": "martianland",
+        "imdbId": "tt4943934",
+        "tmdbId": 355309,
+        "titleSlug": "355309",
+        "folder": "Martian Land (2015)",
+        "certification": "NR",
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 861,
+                "value": 2.4,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 38,
+                "value": 3.4,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Księżniczka Marsa",
+        "originalTitle": "Princess of Mars",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Les chroniques de Mars",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 2,
+                    "name": "French"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "John Carter of Mars",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "The Martian Colony Wars",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "księżniczka marsa",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Akcja rozgrywa się w dalekiej przyszłości, kiedy amerykański komandos zostaje wysłany na odległy świat, w którym rozgorzała wojna pomiędzy ludźmi a rdzennymi mieszkańcami. John Carter zostaje ciężko ranny podczas służby w Afganistanie. Udział w tajnym rządowym eksperymencie jest jego jedyną szansą na przeżycie. Dzięki teleportacji, zostaje przeniesiony na Marsa, gdzie odzyskuje siły, a dzięki mniejszej grawitacji nabywa nadludzkich zdolności poruszania się.",
+        "inCinemas": "2009-12-29T00:00:00Z",
+        "physicalRelease": "2010-04-01T00:00:00Z",
+        "digitalRelease": "2009-12-29T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/23ca98d92fbf835963df69eaf2c847e383395cd043e016553cf23a4278087b00/piSMUqc3Z1kHpIMNuyUUw85a2SY.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/piSMUqc3Z1kHpIMNuyUUw85a2SY.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/dc5fa02114c089780233f48a289c71b9a597cecbbdf1969c5693fc9c31e9699d/lKknJUtoJsjJwE9yq8o9tiqo49y.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/lKknJUtoJsjJwE9yq8o9tiqo49y.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/piSMUqc3Z1kHpIMNuyUUw85a2SY.jpg",
+        "year": 2009,
+        "hasFile": false,
+        "youTubeTrailerId": "FvL5sqGX1nk",
+        "studio": "The Asylum",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 93,
+        "cleanTitle": "princessmars",
+        "imdbId": "tt1531911",
+        "tmdbId": 28524,
+        "titleSlug": "28524",
+        "folder": "Princess of Mars (2009)",
+        "certification": "PG",
+        "genres": [
+            "Fantasy",
+            "Science Fiction",
+            "War"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 1717,
+                "value": 3.1,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 25,
+                "value": 4.4,
+                "type": "user"
+            }
+        }
+    },
+    {
+        "title": "Mój przyjaciel Marsjanin",
+        "originalTitle": "My Favorite Martian",
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "alternateTitles": [
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "My Favourite Martian",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Martin il Marziano",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 5,
+                    "name": "Italian"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "My Favorite Martian: The Movie",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 1,
+                    "name": "English"
+                }
+            },
+            {
+                "sourceType": "tmdb",
+                "movieId": 0,
+                "title": "Mon Martien Bien Aimé",
+                "sourceId": 0,
+                "votes": 0,
+                "voteCount": 0,
+                "language": {
+                    "id": 2,
+                    "name": "French"
+                }
+            }
+        ],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "mój przyjaciel marsjanin",
+        "sizeOnDisk": 0,
+        "status": "released",
+        "overview": "Nieopodal domu reportera telewizyjnego Tima O'Hary Daniels rozbija się statek kosmiczny pilotowany przez sympatycznego przybysza z Marsa Lloyd. Mimo, że Timowi zależy na zaimponowaniu właścicielowi stacji, w której pracuje i pozyskaniu względów jego pięknej, lecz niezbyt rozgarniętej córki, nie sprzedaje mediom Przybysza jako \"sensacji stulecia\". Tim zdaje sobie sprawę, że jego zadaniem jest pomóc naprawić uszkodzony statek i uratować Marsjanina z rąk bezwzględnych naukowców.",
+        "inCinemas": "1999-02-11T00:00:00Z",
+        "physicalRelease": "2000-08-23T00:00:00Z",
+        "digitalRelease": "2012-03-21T00:00:00Z",
+        "images": [
+            {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/9672d87d964905430c9d0d913ae88a5dd59e7a633336516a33082363638296ef/pOp4xriDEFUy2uN0BfnHJcjzqWt.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/pOp4xriDEFUy2uN0BfnHJcjzqWt.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/fb32f4606af05446f3f947f1625f1d3480179acb21286f1b2ec3f3f8a68e926d/1viDPGEPpEZBVwuIotnaXBQNyGQ.jpg",
+                "remoteUrl": "https://image.tmdb.org/t/p/original/1viDPGEPpEZBVwuIotnaXBQNyGQ.jpg"
+            }
+        ],
+        "website": "",
+        "remotePoster": "https://image.tmdb.org/t/p/original/pOp4xriDEFUy2uN0BfnHJcjzqWt.jpg",
+        "year": 1999,
+        "hasFile": false,
+        "youTubeTrailerId": "VXZ-b-ZB7Rw",
+        "studio": "Walt Disney Pictures",
+        "qualityProfileId": 0,
+        "monitored": false,
+        "minimumAvailability": "tba",
+        "isAvailable": true,
+        "folderName": "",
+        "runtime": 94,
+        "cleanTitle": "myfavoritemartian",
+        "imdbId": "tt0120764",
+        "tmdbId": 9849,
+        "titleSlug": "9849",
+        "folder": "My Favorite Martian (1999)",
+        "certification": "PG",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "tags": [],
+        "added": "0001-01-01T00:01:00Z",
+        "ratings": {
+            "imdb": {
+                "votes": 13606,
+                "value": 5,
+                "type": "user"
+            },
+            "tmdb": {
+                "votes": 248,
+                "value": 5.6,
+                "type": "user"
+            },
+            "metacritic": {
+                "votes": 0,
+                "value": 33,
+                "type": "user"
+            },
+            "rottenTomatoes": {
+                "votes": 0,
+                "value": 12,
+                "type": "user"
+            }
+        }
+    }
+]
