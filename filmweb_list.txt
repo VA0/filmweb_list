@@ -1,11 +1,12 @@
 [
   {
-    "title":"The Martian 2015"
-  },
-  {
-    "title":"House of Gucci 2021"
-  },
-  {
-    "title":"The Gray Man 2022"
+    "title": "The Dark Knight",
+    "year": 2008,
+    "ids": {
+      "trakt": 16,
+      "slug": "the-dark-knight-2008",
+      "imdb": "tt0468569",
+      "tmdb": 155
+    }
   }
 ]
